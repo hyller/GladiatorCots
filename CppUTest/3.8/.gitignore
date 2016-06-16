@@ -19,7 +19,7 @@ pdfs
 *.map
 gcov
 objs
-lib
+# lib
 *_tests.txt
 gcov*.html
 ErrorLogs
